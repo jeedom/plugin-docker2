@@ -2,6 +2,8 @@
     "changelog.md": {
         "Changelog Docker management": "Changelog Docker management",
         "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "As a reminder, if there is no information on the update, it is because it concerns only the update of documentation, translation or text",
+        "16\/02\/2026": "16\/02\/2026",
+        "Correction de bugs": "Bug fixes",
         "01\/09\/2024": "01\/09\/2024",
         "Amélioration de la fonction de backup": "Improved backup function",
         "Correction d'un soucis sur le lien d'accès (non remplacement de": "Fixed an issue with the access link (no replacement of",
@@ -20,6 +22,7 @@
         "Plugin Docker Management": "Docker Management plugin",
         "Ce plugin permet d'installer et de gérer et de créer des conteneurs Docker directement depuis Jeedom": "This plugin allows to install and manage and create Docker containers directly from Jeedom",
         "Ce plugin n'a pas vocation à remplacer un logiciel dédié type Portainer, il est juste fait pour exécuter des commandes simples et gérer Docker en restant basique": "This plugin is not intended to replace dedicated software such as Portainer, it is just made to execute simple commands and manage Docker while remaining basic",
+        "Bien que en stable ce plugin est du Beta en interne car trop de soucis de fonctionnement, on le laisse pour les utilisateurs qui l'utilise mais on deconseil fortement sont utilisation pour tout nouvel utilisateur": "Although stable, this plugin is in internal beta due to too many functionality issues. We leave it available for existing users, but we strongly advise against its use for new users",
         "Une fois les dépendances installées, il faut activer \"Docker 1\" en local (pour le moment il est possible qu'on rajoute la connexion sur un docker distant": "Once the dependencies are installed, you must activate \"Docker 1\" locally (for the moment it is possible to add the connection to a remote docker",
         "Vous pouvez aussi configurer le cron pour la fréquence de mise à jour, nous vous conseillons de mettre": "You can also configure the cron for the update frequency, we advise you to put",
         "Si vous avez déjà des Dockers sur Jeedom, vous pouvez cliquer sur le bouton \"Synchroniser\" pour récupérer les dockers existants et créer les équipements Jeedom correspondant": "If you already have Dockers on Jeedom, you can click on the \"Synchronize\" button to retrieve the existing dockers and create the corresponding Jeedom equipment",
